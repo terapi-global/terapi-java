@@ -1,0 +1,15 @@
+# InviteTenantRequestErrorCodes
+
+## Enum
+
+* `NUMBER_20998101` (value: `20998101`)
+* `NUMBER_20998102` (value: `20998102`)
+* `NUMBER_20998103` (value: `20998103`)
+* `NUMBER_20998104` (value: `20998104`)
+* `NUMBER_20998105` (value: `20998105`)
+* `NUMBER_20998106` (value: `20998106`)
+* `NUMBER_20998107` (value: `20998107`)
+* `NUMBER_20998108` (value: `20998108`)
+* `NUMBER_20998109` (value: `20998109`)
+* `NUMBER_20998110` (value: `20998110`)
+* `NUMBER_20998111` (value: `20998111`)
